@@ -197,4 +197,4 @@ if __name__ == '__main__':
     ##刷步数
     res = main(166594918@qq.com, HG010752057, 20000, 25000)
     # 推送消息
-    pushMessage(pushplus_token, "刷步接口调用", res)
+    pushMessage(0c67d678a59b48de9c26a4ce780e14d6, "刷步接口调用", res)
